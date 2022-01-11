@@ -1,0 +1,22 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const INCREMENT_BY_AMOUNT = "INCREMENT_BY_AMOUNT"
+
+
+export const GET_POSTS_SUCCES= "GET_POSTS_SUCCES"
+export const GET_POSTS_ERROR= "GET_POSTS_ERROR"
+export const GET_POSTS_LOAD= "GET_POSTS_LOAD"
+
+
+export const GET_USERS_SUCCES= "GET_USERS_SUCCES"
+export const GET_USERS_ERROR= "GET_USERS_ERROR"
+export const GET_USERS_LOAD= "GET_USERS_LOAD"
+
+
+
+
+
+
+
+
+
